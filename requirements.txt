@@ -1,10 +1,17 @@
 numpy
 python-dotenv
+ragas
+unstructured
+unstructured[pdf]
+langchain-openai
+langchain-community
+azure-ai-evaluation
 azure-core
 azure-cosmos
 azure-search-documents
 azure-storage-blob
 azure-identity
+promptflow-azure
 openai
 aiohttp
 ipywidgets
